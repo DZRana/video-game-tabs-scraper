@@ -1,3 +1,3 @@
 {
-  "ignore": ["links.json", "./json/"]
+  "ignore": ["tabs.json", "./json/"]
 }
